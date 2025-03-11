@@ -5,13 +5,16 @@ This is a secure chat implementation in Python using the Diffie-Hellman key exch
 
 ## ⚠️ Compatibility
 🐧 **Linux Only**: This application currently works only on Linux systems. Cross-platform support will be added in future updates.
+
+**Update: winclient was added for cross platform connections, you can use winclient entirely for Linux to Linux or cross platform , while the client.py supports only Linux to Linux chats**
+
 ## Features
 - 🔒 End-to-end encryption using Diffie-Hellman key exchange
 - 👥 Multiple client support
 - 🌐 Client-to-client secure messaging
 - ⚡ Real-time message delivery
 - 🛡️ Protection against man-in-the-middle attacks
-
+ 
 ## Installation
 1. Clone the repository:
    ```bash
